@@ -1,0 +1,19 @@
+
+pycache/ 
+.py[cod] $py.class
+
+.venv/
+
+.env 
+.env.* 
+
+.pytest_cache/ 
+.coverage htmlcov/
+
+.mypycache/ 
+__pycache__/
+
+.DS_Store 
+financial_tracker.db
+
+*.log
